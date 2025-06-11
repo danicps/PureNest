@@ -1,16 +1,15 @@
 # 🐦 Pure Nest
 
-**Pure Nest** é uma marca fictícia voltada para a venda de produtos naturais e frutas orgânicas, com foco em bem-estar, sustentabilidade e estética elegante. Este repositório apresenta o desenvolvimento visual da identidade da marca, incluindo paleta de cores, tipografia, mockups e materiais para redes sociais.
+**Pure Nest** é uma marca fictícia voltada para a venda de produtos naturais e frutas orgânicas, com foco em bem-estar, sustentabilidade e produtos que fazem a diferença. Este repositório apresenta o desenvolvimento do web site, tudo que foi utilizado. 
 
 ## 🌱 Objetivo do Projeto
 
-Criar uma identidade visual coerente e acolhedora para a marca **Pure Nest**, que represente seus valores: saúde, naturalidade, elegância e simplicidade.
+Criar uma identidade visual coerente e acolhedora para a marca **Pure Nest**, que represente seus valores: saúde, naturalidade, simplicidade e produtos que fazem a diferença.
 
 ## ✨ Estilo Visual
 
-- **Estética:** Natural, leve, acolhedora, com clima de fazenda elegante.
+- **Estética:** Natural, leve e acolhedora.
 - **Público-alvo:** Consumidores conscientes, amantes de produtos orgânicos e estética clean.
-- **Referências:** Estilo visual inspirado em marcas como *Farm*, *Nativa SPA* e *Whole Foods*.
 
 ## 🎨 Paleta de Cores
 
